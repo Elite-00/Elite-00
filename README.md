@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Elite-00
 - 👀 I’m interested in creating Something new , something cool
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me ...
 - 😄 Pronouns: She/Her
